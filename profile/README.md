@@ -1,5 +1,0 @@
-|  Repositório 	|   Dev	|   Hmg	|   Prd	|   Schedule	|
-|---	|---	|---	|---	|---	|
-|  [monkey-spyros](https://github.com/MonkeyECX/monkey-spyros) 	|   ![dev](https://github.com/MonkeyECX/monkey-spyros/actions/workflows/dev.yml/badge.svg)	|   ![hmg](https://github.com/MonkeyECX/monkey-spyros/actions/workflows/hmg.yml/badge.svg)	|   ![prd](https://github.com/MonkeyECX/monkey-spyros/actions/workflows/prd.yml/badge.svg)	|   ![schedule](https://github.com/MonkeyECX/monkey-spyros/actions/workflows/schedule.yml/badge.svg)	|
-|  [monkey-bill](https://github.com/MonkeyECX/monkey-bill) 	|   ![dev](https://github.com/MonkeyECX/monkey-bill/actions/workflows/dev.yml/badge.svg)	|   ![hmg](https://github.com/MonkeyECX/monkey-bill/actions/workflows/hmg.yml/badge.svg)	|   ![prd](https://github.com/MonkeyECX/monkey-bill/actions/workflows/prd.yml/badge.svg)	|   ![schedule](https://github.com/MonkeyECX/monkey-bill/actions/workflows/schedule.yml/badge.svg)	|
-|   	|   	|   	|   	|   	|
